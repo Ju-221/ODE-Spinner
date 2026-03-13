@@ -4,8 +4,7 @@
 
 A small Java Swing simulation for a assigment submission that visualizes fluid surface behavior in a rotating cylindrical tank for a ordinary differential equation. 
 
-![Figure 1](figures/figure1.png)
-
+<img src="figures/figure1.png" width="360" height="240" style="object-fit: contain;" />
 
 ## Files
 - `TankSimulation.java` - app entry point and UI layout
@@ -13,7 +12,7 @@ A small Java Swing simulation for a assigment submission that visualizes fluid s
 - `Tank2DPanel.java` - 2D profile rendering
 - `Tank3DPanel.java` - interactive 3D mesh rendering
 
-![Figure 2](figures/figure2.gif)
+<img src="figures/figure2.gif" width="360" height="240" style="object-fit: contain;" />
 
 ## Build
 ```bash

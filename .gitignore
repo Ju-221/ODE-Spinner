@@ -1,0 +1,19 @@
+# Java compiled classes and build output
+*.class
+bin/
+out/
+build/
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-generated files
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.iml
